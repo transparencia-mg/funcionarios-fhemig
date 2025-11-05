@@ -1,10 +1,10 @@
 {
-  "name": "funcionarios-fhemig",
+  "Gname": "funcionarios-fhemig",
   "owner_org": "fundacao-hospitalar-do-estado-de-minas-gerais-fhemig",
   "profile": "data-package",
   "resources": [
     {
-      "description": "Dados do total de funcionários por unidade Fhemig a partir de 2025.",
+      "description": "Dados do total de funcionários por unidade FHEMIG a partir de 2025.",
       "dialect": {
         "delimiter": ";"
       },
@@ -34,7 +34,7 @@
           {
             "name": "funcionarios",
             "type": "integer",
-            "description": "Número total de profissionais que tiveram o ponto homologado no mês (SAPT)."
+            "description": "Número total de profissionais que tiveram o ponto homologado no mês (SAPT- Sistema de Administração de Pessoal da FHEMIG)."
           }
         ]
       },
@@ -42,5 +42,5 @@
       "title": "Total de funcionários a partir de 2025"
     }
   ],
-  "title": "Funcionarios fhemig"
+  "title": "Funcionarios FHEMIG"
 }

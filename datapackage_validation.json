@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.019,
+  "time": 0.027,
   "errors": [],
   "tasks": [
     {
@@ -42,13 +42,13 @@
         "scheme": "file",
         "title": "Total de funcionários a partir de 2025",
         "stats": {
-          "hash": "205b9ca6d62c3a4d382c1c39435210f8",
-          "bytes": 2801,
+          "hash": "79e6c3330ceac946ded9f49e00399671",
+          "bytes": 13453,
           "fields": 4,
-          "rows": 170
+          "rows": 816
         }
       },
-      "time": 0.011,
+      "time": 0.019,
       "scope": [
         "hash-count-error",
         "byte-count-error",

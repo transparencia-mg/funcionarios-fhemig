@@ -27,4 +27,4 @@ resources:
           description: "Número total de profissionais que tiveram o ponto homologado no mês (SAPT- Sistema de Administração de Pessoal da FHEMIG)."
     scheme: file
     title: Total de funcionários a partir de 2025
-title: Funcionarios FHEMIG
+title: Funcionarios

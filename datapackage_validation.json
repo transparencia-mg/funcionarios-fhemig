@@ -5,7 +5,7 @@
   "tasks": [
     {
       "resource": {
-        "description": "Dados do total de funcionários por unidade FHEMIG a partir de 2025.",
+        "description": "Dados do total de funcionários por unidade FHEMIG.",
         "dialect": {
           "delimiter": ";"
         },
@@ -40,7 +40,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Total de funcionários a partir de 2025",
+        "title": "Total de funcionários",
         "stats": {
           "hash": "79e6c3330ceac946ded9f49e00399671",
           "bytes": 13453,
@@ -48,7 +48,7 @@
           "rows": 816
         }
       },
-      "time": 0.022,
+      "time": 0.021,
       "scope": [
         "hash-count-error",
         "byte-count-error",

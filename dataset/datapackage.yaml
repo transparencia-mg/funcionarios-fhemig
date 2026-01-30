@@ -2,7 +2,7 @@ name: funcionarios-fhemig
 owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
 profile: data-package
 resources:
-  - description: Dados do total de funcionários por unidade FHEMIG a partir de 2025.
+  - description: Dados do total de funcionários por unidade FHEMIG.
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -26,5 +26,5 @@ resources:
           type: integer
           description: "Número total de profissionais que tiveram o ponto homologado no mês (SAPT- Sistema de Administração de Pessoal da FHEMIG)."
     scheme: file
-    title: Total de funcionários a partir de 2025
+    title: Total de funcionários
 title: Funcionarios

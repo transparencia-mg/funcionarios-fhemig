@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.035,
+  "time": 0.043,
   "errors": [],
   "tasks": [
     {
@@ -42,13 +42,13 @@
         "scheme": "file",
         "title": "Total de funcionários",
         "stats": {
-          "hash": "5b385bf185711af75268362cde36b55e",
-          "bytes": 24678,
+          "hash": "0c8061dedb4cbff7b0ccc467bf059b57",
+          "bytes": 24936,
           "fields": 4,
-          "rows": 1499
+          "rows": 1515
         }
       },
-      "time": 0.027,
+      "time": 0.034,
       "scope": [
         "hash-count-error",
         "byte-count-error",
